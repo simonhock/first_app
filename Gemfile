@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 group :development, :test do
-	gem 'sqlite3-ruby', :require => 'sqlite3'
+  gem 'sqlite3-ruby', :require => 'sqlite3'
 end
 
 
